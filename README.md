@@ -1,9 +1,9 @@
 # Open de Tennis
 
-##titre Gestion versionning Uml  
+##Gestion_versionning_Uml  
 
  -version Bryan  
  -version Mathis  
  -Merge sur le main (bientot)  
   
-##titre Gestion de la billeterie  
+##Gestion_de_la_billeterie  
