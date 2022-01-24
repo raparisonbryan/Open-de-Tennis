@@ -31,5 +31,5 @@ page totale : 10<br/>
  
 
 <h3>lien vers le site web</h3>
-https://iutdoua-web.univ-lyon1.fr/~p2019921/PHP/Accueil.html
+https://iutdoua-web.univ-lyon1.fr/~p2000616/CPOA/Final/Final/PHP/Accueil.html
 
